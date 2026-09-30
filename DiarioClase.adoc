@@ -1,0 +1,71 @@
+= Diario de Clase - Desarrollo Web en Entorno Cliente
+:toc: left
+:toc-title: Semanas
+:icons: font
+:experimental:
+
+
+
+== 🗓️ Semana 4 (28/09 - 02/10)
+
+=== 🔹 Viernes, 2 de Octubre
+* *AVISOS*:
+* *Teoría:*
+* *Práctica:*
+* *Recursos:*
+
+=== 🔹 Miércoles, 30 de Septiembre
+* *AVISOS*:
+* *Teoría:*
+* *Práctica:*
+* *Recursos:*
+
+=== 🔹 Martes, 29 de Septiembre
+
+* *AVISOS*:
+* *Teoría:*
+-  Historia Js
+- Variables, let, const
+- Diferencia en memoria copiar por valor y por referencia
+
+* *Práctica:*
+- Demo. de los ejemplos ejecutados en el editor online
+
+* *Recursos:*
+- Apuntes subidos v2
+- Ejecutar código online en el editor de Mozilla Docs. MDN -> https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else[link]
+
+
+
+---
+
+== 🗓️ Semana 3 (21/09 - 25/09)
+
+=== 🔹 Viernes, 25 de Septiembre
+* *Teoría:* Repaso de HTTPS (40 minutos). Estrategias de carga: uso de `async` y `defer` ("lazy load").
+* *Práctica:* Demos de ejecución de código JavaScript:
+** Ejecución después del `<body>`.
+** Ejecución antes del `<body>`.
+** Generación de error al intentar manipular objetos del DOM antes de que se haya cargado el `<body>`.
+* *Recursos:* https://marcosruiz.github.io/posts/integracion-codigo-javascript/[Artículo: Integración de código JavaScript]
+
+=== 🔹 Miércoles, 23 de Septiembre
+* -
+
+=== 🔹 Martes, 22 de Septiembre
+* *Teoría:* Repaso de CI/CD. Repaso del funcionamiento de JavaScript (modelo monohilo).
+* *Práctica:* Empezamos las tareas.
+
+---
+
+== 🗓️ Semana 2
+* -
+
+---
+
+== 🗓️ Semana 1 (Semana del 11 de Septiembre)
+
+=== 🔹 Viernes, 11 de Septiembre (Día 1)
+* *Organización:* Presentación general, recogida de emails y revisión de la slide de presentación.
+* *Pendientes:* Explicar cada tema del módulo.
+
